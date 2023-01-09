@@ -21,11 +21,18 @@ I also saved all the evaluation metrics in a data frame.
 In the end, I compared all the metrics and came to the following conclusions-
 
 The target variable is highly dependent on input variables.
+
 Linear Regression has given the best results with lowest MAE, MSE, RMSE and MAPE scores.
+
 Ridge regression shrunk the parameters to reduce complexity and multicollinearity, but ended up affecting the evaluation metrics.
+
 Lasso regression did feature selection and ended up giving up worse results than ridge which again reflects the fact that each feature is important (as previously discussed).
+
 KNN AND XGBoost have given similar results.
+
 The trend of the price of Yes Bank's stock increased until 2018 and then Close,Open,High,Low price decreased.
+
 Based on the open vs. close price graph, we concluded that Yes Bank's stock fell significantly after 2018.
+
 Visualization has allowed us to notice that the closing price of the stock has suddenly fallen starting in 2018. It seems reasonable that the Yes Bank stock price was significantly impacted by the Rana Kapoor case fraud.
 

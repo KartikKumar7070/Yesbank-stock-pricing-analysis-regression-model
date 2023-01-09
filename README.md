@@ -14,9 +14,8 @@ In the next step, I split the data into train and test data set and ran the foll
 1.	Linear regression
 2.	Lasso regression
 3.	Ridge regBased on the open vs. close price graph, we concluded that Yes Bank's stock fell significantly after 2018.
-4.	Visualization has allowed us to notice that the closing price of the stock has suddenly fallen starting in 2018. It seems reasonable that the Yes Bank stock price was significantly impacted by the Rana Kapoor case fraud.ion
-5.	KNN
-6.	XGBoost
+4.	KNN
+5.	XGBoost
 
 I also saved all the evaluation metrics in a data frame.
 

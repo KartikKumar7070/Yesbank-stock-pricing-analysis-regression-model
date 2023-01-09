@@ -18,8 +18,7 @@ In the next step, I split the data into train and test data set and ran the foll
 5.	XGBoost
 
 I also saved all the evaluation metrics in a data frame.
-
-In the end, I compared all the metrics and came to tVisualization has allowed us to notice that the closing price of the stock has suddenly fallen starting in 2018. It seems reasonable that the Yes Bank stock price was significantly impacted by the Rana Kapoor case fraud.he following conclusions-
+In the end, I compared all the metrics and came to the following conclusions-
 
 1. The target variable is highly dependent on input variables.
 2. Linear Regression has given the best results with lowest MAE, MSE, RMSE and MAPE scores.

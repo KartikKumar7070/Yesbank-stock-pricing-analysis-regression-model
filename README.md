@@ -21,6 +21,7 @@ The low values of these two indicators show that the models are efficient in pre
 *	**Low:** refers to the minimum price that month. 
 *	**Close:** refers to the final trading price for that month, which we have to predict using regression technique. 
 
+<h2>Project Highlights:</h2>
 <h3>The objective of this project is to predict the stock’s closing price of the month. Discussion of Yes Bank Dataset will involve various steps such as:</h3> 
 
 1.	Loading the data into data frame 
@@ -33,7 +34,21 @@ The low values of these two indicators show that the models are efficient in pre
 8.	Ridge Regression 
 9.	XGBoost Regression 
 
-I also saved all the evaluation metrics in a data frame.
+![image](https://user-images.githubusercontent.com/114734243/227254557-8e76ee51-7d53-4e11-b9af-e78897e10996.png)
+
+![image](https://user-images.githubusercontent.com/114734243/227254808-4166078f-1b7c-453b-8ebe-91e4ed1116d1.png)
+
+![image](https://user-images.githubusercontent.com/114734243/227254866-fccbca4c-ad1f-4d58-a7fa-14ce0dddc821.png)
+
+![image](https://user-images.githubusercontent.com/114734243/227254930-a28a52bd-126f-4526-b4c0-e89f88c59e51.png)
+
+![image](https://user-images.githubusercontent.com/114734243/227254989-de746d4b-2fd2-4efd-96b1-97fc507c0657.png)
+
+![image](https://user-images.githubusercontent.com/114734243/227255029-45a4328f-b199-43b0-b909-acbbd92e77e7.png)
+
+![read me](https://user-images.githubusercontent.com/114734243/227255108-8df773c8-bee6-4549-a573-6e2a94d69f28.png)
+
+
 In the end, I compared all the metrics and came to the following conclusions-
 
 1. The target variable is highly dependent on input variables.

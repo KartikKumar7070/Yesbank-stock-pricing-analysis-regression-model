@@ -1,4 +1,5 @@
 # Yesbank-stock-pricing-analysis-regression-model
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Yes_Bank_logo.svg/1200px-Yes_Bank_logo.svg.png" width="600" height="200">
 **ML regression project**
 
 A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares."

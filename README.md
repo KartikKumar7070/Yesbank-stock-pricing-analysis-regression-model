@@ -33,20 +33,6 @@ The low values of these two indicators show that the models are efficient in pre
 8.	Ridge Regression 
 9.	XGBoost Regression 
 
-
-So my project was to apply different regression models on the given data to predict the closing price of the stock, then compare all the models to figure out the best one for this job. 
-
-I started off with data overview, just to understand what’s in the dataset and plan out the steps to get the final result. 
-
-Next step was to perform EDA, do the required feature engineering steps and carry out univariate/bivariate analysis.
-
-In the next step, I split the data into train and test data set and ran the following regression models-
-1.	Linear regression
-2.	Lasso regression
-3.	Ridge regBased on the open vs. close price graph, we concluded that Yes Bank's stock fell significantly after 2018.
-4.	KNN
-5.	XGBoost
-
 I also saved all the evaluation metrics in a data frame.
 In the end, I compared all the metrics and came to the following conclusions-
 
